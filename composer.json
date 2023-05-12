@@ -1,0 +1,18 @@
+{
+    "name": "cs/composer",
+    "description": "@@@",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cs\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "evil wang",
+            "email": "273210440@qq.com"
+        }
+    ],
+    "require": {}
+}
